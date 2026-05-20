@@ -1,0 +1,6 @@
+{
+  "name": "Tinydump",
+  "description": "An AI-powered Personal Knowledge Management system to dump screenshots, record voicenotes, and extract key insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
